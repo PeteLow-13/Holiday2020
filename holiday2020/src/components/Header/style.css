@@ -1,0 +1,9 @@
+.header {
+    /* background-image: url('../../assets/xmasbackground.jpg'); */
+    background-color: green;
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+    text-shadow: 1px 1px black;
+}
+
