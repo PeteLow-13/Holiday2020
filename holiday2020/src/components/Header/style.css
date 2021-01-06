@@ -1,7 +1,21 @@
-.header {
-    /* background-image: url('../../assets/xmasbackground.jpg'); */
+/* .header {
+    background-image: url('../../assets/xmasbackground.jpg');
     background-color: green;
-    color: red;
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+    text-shadow: 1px 1px red;
+} */
+
+.jumbotron {
+    /* background-color: purple; */
+    background-image: url('../../assets/xmasbackground.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+
+    color: white;
     font-style: italic;
     font-weight: bold;
     text-shadow: 1px 1px black;
