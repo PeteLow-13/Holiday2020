@@ -27,7 +27,7 @@ export default function CarouselComponent() {
                 <p>This year Joquin made the transition to online learning at Rainier Prep. He made the first quarter Honor Roll this fall, played lots of video games, and can't wait for sports to start again.</p>
                 </Carousel.Caption>
             </Carousel.Item>
-            <Carousel.Item>
+            <Carousel.Item className='item'>
                 <img
                 className="d-block w-100"
                 src= {carouselImages[1]}
@@ -39,7 +39,7 @@ export default function CarouselComponent() {
                 <p>Alexie is enjoying being in Ms Deuel's online classroom at Leschi Elementary. She can't wait for school to start in person again. She is looking forward to playing softball this spring.</p>
                 </Carousel.Caption>
             </Carousel.Item>
-            <Carousel.Item>
+            <Carousel.Item className='item'>
                 <img
                 className="d-block w-100"
                 src={carouselImages[3]}
@@ -51,7 +51,7 @@ export default function CarouselComponent() {
                 <p>Maria kept Madres's kitchen open as a home meal delivery company from March until August when the owners decided to shut down until conditions improve. She is currently is starting classes at Seattle Central College this quarter working towards the Graphic design program.</p>
                 </Carousel.Caption>
             </Carousel.Item>
-            <Carousel.Item>
+            <Carousel.Item className='item'>
                 <img
                 className="d-block w-100"
                 src={carouselImages[4]}
@@ -63,7 +63,7 @@ export default function CarouselComponent() {
                 <p>My long time employer shut down this year. In June I began a Web Development Bootcamp through the University of Washington which I successfully completed in December. I built this site using skills I learned and am searching for a job in the industry now.</p>
                 </Carousel.Caption>
             </Carousel.Item>
-            <Carousel.Item>
+            <Carousel.Item className='item'>
                 <img
                 className="d-block w-100"
                 src={carouselImages[5]}
@@ -75,7 +75,7 @@ export default function CarouselComponent() {
                 <p>We went to Florida in February before the lockdowns started.</p>
                 </Carousel.Caption>
             </Carousel.Item>
-            <Carousel.Item>
+            <Carousel.Item className='item'>
                 <img
                 className="d-block w-100"
                 src={carouselImages[6]}
@@ -87,7 +87,7 @@ export default function CarouselComponent() {
                 <p>We've mostly been hanging out close to home but we did make a trip up to Orcas Island this summer.</p>
                 </Carousel.Caption>
             </Carousel.Item>
-            <Carousel.Item>
+            <Carousel.Item className='item'>
                 <img
                 className="d-block w-100"
                 src={carouselImages[7]}

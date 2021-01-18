@@ -1,4 +1,4 @@
 .item{
-    margin: 5%;
-    margin-right: 5%;
+   box-sizing: border-box;
+   margin: 5%;
 }

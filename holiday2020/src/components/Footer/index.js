@@ -6,7 +6,7 @@ function Footer(){
         <div>
             <footer className='footer'>
                 <span>
-                    <a href='https://github.com/PeteLow-13' target='blank'>©PeteLow-13 2020</a>
+                    <p> Happy Holidays! checkout what I've been up to<a href='https://github.com/PeteLow-13' target='blank'>©PeteLow-13 2020</a></p>
                     </span>
             </footer>
         </div>
