@@ -16,7 +16,7 @@ const carouselImages = [joaquin, alexie, janda, maria, pete, florida, alexieOrca
 export default function CarouselComponent() {
     return (
         <Carousel>
-            <Carousel.Item>
+            <Carousel.Item className='item'>
                 <img
                 className="d-block w-100"
                 src= {carouselImages[0]}
