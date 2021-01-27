@@ -3,9 +3,10 @@
    margin: 5%;
 } */
 .carousel-div{
-    height: 50vh;
+    height: auto;
     width: auto;
 }
+
 .carousel-div img {
     max-height:90%;
     width: 90%;
@@ -20,10 +21,13 @@
     background-color: rgba(242, 4, 4, 0.214);
     color: white;
     font-style: italic;
-    /* font-weight: bold; */
     text-shadow: 1px 1px black;
     border-style: solid;
     border-color: green;
     border-width: 1px;
     border-radius: 10px;
+}
+
+h3 {
+    font-size: xx-large;
 }
