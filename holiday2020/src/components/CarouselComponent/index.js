@@ -15,6 +15,7 @@ const carouselImages = [joaquin, alexie, janda, maria, pete, florida, alexieOrca
 
 export default function CarouselComponent() {
     return (
+        <div className='carousel-div'>
         <Carousel>
             <Carousel.Item className='item'>
                 <img
@@ -22,7 +23,7 @@ export default function CarouselComponent() {
                 src= {carouselImages[0]}
                 alt="Joaquin"
                 />
-                <Carousel.Caption>
+                <Carousel.Caption className='carousel-caption'>
                 <h3>Joaquin</h3>
                 <p>This year Joquin made the transition to online learning at Rainier Prep. He made the first quarter Honor Roll this fall, played lots of video games, and can't wait for sports to start again.</p>
                 </Carousel.Caption>
@@ -34,12 +35,12 @@ export default function CarouselComponent() {
                 alt="Alexie"
                 />
 
-                <Carousel.Caption>
+                <Carousel.Caption className='carousel-caption'>
                 <h3>Alexie</h3>
                 <p>Alexie is enjoying being in Ms Deuel's online classroom at Leschi Elementary. She can't wait for school to start in person again. She is looking forward to playing softball this spring.</p>
                 </Carousel.Caption>
             </Carousel.Item>
-            <Carousel.Item className='item'>
+            {/* <Carousel.Item className='item'>
                 <img
                 className="d-block w-100"
                 src={carouselImages[3]}
@@ -98,8 +99,8 @@ export default function CarouselComponent() {
                 <h3>Stay Safe!</h3>
                 <p> We have Missed all of you very much and hope to be able to see you outside of screens this year. Everyone please stay safe and healthy and hopefully we'll see you in 2021!</p>
                 </Carousel.Caption>
-            </Carousel.Item>
+            </Carousel.Item> */}
         </Carousel>
-        
+        </div>
     )
 }
