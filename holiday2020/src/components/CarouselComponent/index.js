@@ -38,66 +38,66 @@ export default function CarouselComponent() {
                 <p>Alexie is enjoying being in Ms Deuel's online classroom at Leschi Elementary. She can't wait for school to start in person again. She is looking forward to playing softball this spring.</p>
                 </Carousel.Caption>
             </Carousel.Item>
-            {/* <Carousel.Item className='item'>
+            <Carousel.Item className='item'>
                 <img
-                className="d-block w-100"
+                className='carousel-image'
                 src={carouselImages[3]}
                 alt="Maria"
                 />
 
-                <Carousel.Caption>
+                <Carousel.Caption className='carousel-caption'>
                 <h3>Maria</h3>
                 <p>Maria kept Madres's kitchen open as a home meal delivery company from March until August when the owners decided to shut down until conditions improve. She is currently is starting classes at Seattle Central College this quarter working towards the Graphic design program.</p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item className='item'>
                 <img
-                className="d-block w-100"
+                className='carousel-image'
                 src={carouselImages[4]}
                 alt="Pete"
                 />
 
-                <Carousel.Caption>
+                <Carousel.Caption className='carousel-caption'>
                 <h3>Pete</h3>
                 <p>My long time employer shut down this year. In June I began a Web Development Bootcamp through the University of Washington which I successfully completed in December. I built this site using skills I learned and am searching for a job in the industry now.</p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item className='item'>
                 <img
-                className="d-block w-100"
+                className='carousel-image'
                 src={carouselImages[5]}
                 alt="Family"
                 />
 
-                <Carousel.Caption>
+                <Carousel.Caption className='carousel-caption'>
                 <h3>Florida</h3>
                 <p>We went to Florida in February before the lockdowns started.</p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item className='item'>
                 <img
-                className="d-block w-100"
+                className='carousel-image'
                 src={carouselImages[6]}
                 alt="Family"
                 />
 
-                <Carousel.Caption>
+                <Carousel.Caption className='carousel-caption'>
                 <h3>Orcas</h3>
                 <p>We've mostly been hanging out close to home but we did make a trip up to Orcas Island this summer.</p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item className='item'>
                 <img
-                className="d-block w-100"
+                className='carousel-image'
                 src={carouselImages[7]}
                 alt="Family"
                 />
 
-                <Carousel.Caption>
+                <Carousel.Caption className='carousel-caption'>
                 <h3>Stay Safe!</h3>
                 <p> We have Missed all of you very much and hope to be able to see you outside of screens this year. Everyone please stay safe and healthy and hopefully we'll see you in 2021!</p>
                 </Carousel.Caption>
-            </Carousel.Item> */}
+            </Carousel.Item>
         </Carousel>
     )
 }
