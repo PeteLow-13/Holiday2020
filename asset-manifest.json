@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/holiday2020/static/css/main.ded09e15.chunk.css",
+    "main.js": "/holiday2020/static/js/main.4f4a4184.chunk.js",
+    "main.js.map": "/holiday2020/static/js/main.4f4a4184.chunk.js.map",
+    "runtime-main.js": "/holiday2020/static/js/runtime-main.3a267248.js",
+    "runtime-main.js.map": "/holiday2020/static/js/runtime-main.3a267248.js.map",
+    "static/js/2.b3594b39.chunk.js": "/holiday2020/static/js/2.b3594b39.chunk.js",
+    "static/js/2.b3594b39.chunk.js.map": "/holiday2020/static/js/2.b3594b39.chunk.js.map",
+    "static/js/3.130d0901.chunk.js": "/holiday2020/static/js/3.130d0901.chunk.js",
+    "static/js/3.130d0901.chunk.js.map": "/holiday2020/static/js/3.130d0901.chunk.js.map",
+    "index.html": "/holiday2020/index.html",
+    "static/css/main.ded09e15.chunk.css.map": "/holiday2020/static/css/main.ded09e15.chunk.css.map",
+    "static/js/2.b3594b39.chunk.js.LICENSE.txt": "/holiday2020/static/js/2.b3594b39.chunk.js.LICENSE.txt",
+    "static/media/alexie.9d69a280.jpeg": "/holiday2020/static/media/alexie.9d69a280.jpeg",
+    "static/media/alexieOrcas.7e1382a6.jpeg": "/holiday2020/static/media/alexieOrcas.7e1382a6.jpeg",
+    "static/media/chauncey.5bc45eb4.jpeg": "/holiday2020/static/media/chauncey.5bc45eb4.jpeg",
+    "static/media/florida.87ea19c0.jpeg": "/holiday2020/static/media/florida.87ea19c0.jpeg",
+    "static/media/janda.9951b066.jpeg": "/holiday2020/static/media/janda.9951b066.jpeg",
+    "static/media/joaquin.781c5aae.jpeg": "/holiday2020/static/media/joaquin.781c5aae.jpeg",
+    "static/media/maria.4b58aa59.jpeg": "/holiday2020/static/media/maria.4b58aa59.jpeg",
+    "static/media/pete.1d554689.jpeg": "/holiday2020/static/media/pete.1d554689.jpeg",
+    "static/media/index.css": "/holiday2020/static/media/xmasbackground.d2b6e424.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a267248.js",
+    "static/js/2.b3594b39.chunk.js",
+    "static/css/main.ded09e15.chunk.css",
+    "static/js/main.4f4a4184.chunk.js"
+  ]
+}
